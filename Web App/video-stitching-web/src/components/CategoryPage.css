@@ -1,0 +1,21 @@
+.category-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.video-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.video-list li {
+  padding: 5px 0;
+}
+
+.actions {
+  margin: 20px 0;
+}
+
+input[type="file"] {
+  margin-bottom: 10px;
+}
